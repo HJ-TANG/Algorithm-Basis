@@ -24,7 +24,7 @@ Some notes for the course [Algorithm basis](https://www.coursera.org/learn/suanf
 #### 案例（详细解释见代码）
 - Case 1: 熄灯问题
 - Case 2: 讨厌的青蛙
-- Exercise1: 画家问题 
+- Exercise1: 画家问题
   思路同case1，需要注意的问题：
   - 矩阵大小由给定的输入来确定而不是固定值，因此矩阵不能定义为全局变量，而只能作为参数传入其他函数中进行处理。
   - 读入的初始值为字符串，可将其先存入字符数组中再赋值给相应矩阵
